@@ -1,5 +1,5 @@
-# Apriori PySpark Implementation
-> This project has been developed to do "Distributed Market Basket Analysis".
+# Distributed Market Basket Analysis
+> PySpark implementation of Apriori Algorithm.
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Generic badge](https://img.shields.io/badge/Framework-PySpark-red.svg)](https://shields.io/)
