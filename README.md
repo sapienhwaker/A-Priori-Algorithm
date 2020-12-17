@@ -7,13 +7,13 @@
 
 Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.
 
+![](Apriori.png)
+
 ## Objectives:
 * Read data and generate frequent items (Support = 85)
 * Candidate itemset generation
 * Frequent itemset generation (2, 3 and 4 items)
 * Association rules generation (Confidence = 90%)
-
-![](header.png)
 
 ## Input
 Online browsing behavior dataset from "browsing.txt" has been used as the input data for the analysis.
