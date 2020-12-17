@@ -37,7 +37,7 @@ Apriori algorithm suffers from some weakness in spite of being clear and simple.
 
 ## Meta
 
-Author: [Prasad Hajare](https://www.itsprasad.com/), MS Computer Science
+Author: [Prasad Hajare](https://www.itsprasad.com/), MS Computer Science.
 
 Distributed under the [MIT License](LICENSE).
 
